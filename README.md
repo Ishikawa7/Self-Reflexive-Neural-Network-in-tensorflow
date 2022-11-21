@@ -1,2 +1,2 @@
 # Ancient-deep-learning-neural-network-brought-alive-again-in-tensorflow
-Rete neurale autoriflessiva sviluppata dal professore Massimo Buscema al centro di ricerca Semeion(Roma, Italia) negli anni 80 implementata in moderno tensorflow
+Self-reflexive neural network developed by professor Massimo Buscema at the Semeion research center (Rome, Italy) in the 80s implemented in modern tensorflow
